@@ -27,7 +27,7 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbaicaitang%2FChatGPT-Web-hpc&env=OPENAI_API_KEY&env=CODE&env=BASE_URL&project-name=ChatGPT-Web-hpc02&repository-name=ChatGPT-Web-hpc02)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/baicaitang/ChatGPT-Web-hpc)
 
 ![cover](./docs/images/cover.png)
 
