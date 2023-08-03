@@ -175,7 +175,7 @@ export function SideBar(props: { className?: string }) {
           </div>
           <div className={styles["sidebar-action"]}>
             <a href={HPC_URL} target="_blank">
-              <IconButton icon={<HpcIcon />} shadow />
+              <IconButton icon={<HpcIcon />} shadow text={'访问小站'} />
             </a>
           </div>
         </div>
